@@ -1,0 +1,29 @@
+ 
+h1 {
+    background-color: yellow;
+    width: px;
+    height: px;
+  }
+
+p  {
+    color: red;
+   } 
+
+   * {
+    text-align: center;
+    color: blue;
+  }
+    
+      
+
+
+div{
+
+background-color: rgb(237,241,176);
+width: 342px;
+height: 150%
+border: 1px solid black;
+padding: 5%
+
+}
+
